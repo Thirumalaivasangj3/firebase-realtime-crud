@@ -5,13 +5,7 @@ import { getDatabase, ref, push, set, onValue, update, remove } from "https://ww
 
 // Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDSi6PCGPP0juY4nh4ig5vmOQSN9z_TsiY",
-  authDomain: "crudapp-bf180.firebaseapp.com",
-  projectId: "crudapp-bf180",
-  databaseURL:" https://crudapp-bf180-default-rtdb.firebaseio.com/",
-  storageBucket: "crudapp-bf180.firebasestorage.app",
-  messagingSenderId: "825361363649",
-  appId: "1:825361363649:web:8b6fa7110cf784ee5eda40"
+    # FIREBASE CONFIGURATION OF YOURS
 };
 
 // Initialize Firebase
